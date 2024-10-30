@@ -140,6 +140,12 @@ main {
     margin: 5px 0;
 }
 
+#benefits i {
+    font-size: 20px;
+    padding: 5%;
+    color: #3a3a3a;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
