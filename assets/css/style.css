@@ -4,10 +4,20 @@
     margin:0;
     box-sizing: border-box;
 }
+/* General styling rules */
+body{
+    min-height:100vh;
+    display: flex;
+    flex-direction: column;
+    /* generic styles */
+    color:#3a3a3a;
+
+}
 
 /*Header*/ 
 header {
     background-color: lightcoral;
+    
 }
 
 /* Main content */
