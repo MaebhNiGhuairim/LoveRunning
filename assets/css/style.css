@@ -1,3 +1,8 @@
+/* Google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+
+
 /* Wildcard to override default styles */
 * {
     padding:0;
@@ -17,7 +22,7 @@ body{
 /*Header*/ 
 header {
     background-color: lightcoral;
-    
+
 }
 
 /* Main content */
